@@ -1,2 +1,2 @@
 # restlessbraap.github.io
-A portfolio to showcase my projects.
+A public portfolio to showcase my projects.
